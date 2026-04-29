@@ -22,7 +22,7 @@ Backend engineer with a focus on building reliable systems — from SaaS product
 ## What I'm up to
 
 - 🔨 Building [**Makerly**](https://makerly.app) — a SaaS for small businesses in Lagos (inventory, costing, sales tracking)
-- 📅 Building **Posta** — a social media scheduling tool for Nigerian creators and businesses. Schedule, crosspost, and grow without switching between apps
+- 📅 Building [**Posta**](https://getposta.co) — a social media scheduling tool for Nigerian creators and businesses. Schedule, crosspost, and grow without switching between apps
 - 🔒 Working on malware scanner features for a WordPress security plugin (checksum verification, signature matching)
 - ☁️ Thinking a lot about cost-efficient cloud architecture and deployment pipelines
 
